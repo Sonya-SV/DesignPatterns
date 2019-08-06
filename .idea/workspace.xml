@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df0092ce-efd7-4f54-b8d4-262fd9a05187" name="Default Changelist" comment="add Structural patterns">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="df0092ce-efd7-4f54-b8d4-262fd9a05187" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/State/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/State/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,10 +30,9 @@
     <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="430" />
-    <option name="y" value="-25" />
-    <option name="width" value="1030" />
-    <option name="height" value="1090" />
+    <option name="x" value="70" />
+    <option name="width" value="938" />
+    <option name="height" value="1088" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -99,6 +98,7 @@
       <workItem from="1565004080821" duration="168000" />
       <workItem from="1565012515185" duration="133000" />
       <workItem from="1565012677911" duration="261000" />
+      <workItem from="1565119919089" duration="1150000" />
     </task>
     <task id="LOCAL-00001" summary="add abstract factory">
       <created>1564699685130</created>
@@ -142,11 +142,18 @@
       <option name="project" value="LOCAL" />
       <updated>1565012743836</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add Structural patterns">
+      <created>1565119984796</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1565119984796</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4788000" />
+    <option name="totallyTimeSpent" value="5938000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -160,7 +167,7 @@
   <component name="ToolWindowManager">
     <frame x="55" y="-7" width="1488" height="878" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.498" visible="true" weight="0.28081232" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.498" visible="true" weight="0.285014" />
       <window_info id="Structure" order="1" sideWeight="0.502" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -175,10 +182,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49719888" weight="0.3297587" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4929972" visible="true" weight="0.3297587" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.49159664" visible="true" weight="0.3297587" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49719888" weight="0.3297587" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="11" sideWeight="0.50700283" side_tool="true" visible="true" weight="0.3297587" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50840336" side_tool="true" visible="true" weight="0.3297587" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -236,9 +243,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add abstract factory" />
     <MESSAGE value="add Creational patterns" />
-    <MESSAGE value="add Structural patterns" />
     <MESSAGE value="add Chain of Responsibility" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Chain of Responsibility" />
+    <MESSAGE value="add Structural patterns" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Structural patterns" />
   </component>
   <component name="masterDetails">
     <states>
